@@ -81,6 +81,7 @@ c. Determine las ecuaciones de descarga para vc e ic.
 **12-10 Circuitos magnéticos en serie: a partir de F, encontrar NI**
 
 15.Encuentre la corriente I en la figura 12-48 si ϕ=0.16 mWb. 
+![Cap_12_Ejer_11_20_00002 (2)](https://user-images.githubusercontent.com/84453441/126914703-4b1d8c0c-35f0-4cc8-aea0-79f960c1f245.png)
 
 17.Se corta un espacio de 0.5 mm en la porción del núcleo de acero fundido de la figura 12-48. Encuentre la corriente para ϕ=0.128 mWb. No tome en cuenta el desbordamiento.
 
