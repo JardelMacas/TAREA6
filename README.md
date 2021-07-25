@@ -76,6 +76,7 @@ c. Determine las ecuaciones de descarga para vc e ic.
 ![11](https://user-images.githubusercontent.com/84453441/126915147-f5b0e8fd-a5d1-4c21-9e35-1efa3aae50bc.png)
 
 13.Suponga que una bobina N2 que lleva la corriente I2 se añade al brazo 3 del núcleo que se muestra en la figura 12-47 y que produce un flujo dirigido hacia arriba. Sin embargo, suponga que el flujo neto en el brazo 3 aun va hacia abajo. Escriba las ecuaciones de la ley de Ampere para este caso.
+![13](https://user-images.githubusercontent.com/84453441/126915201-23facefc-c0ce-4cdd-8bc5-71887b058868.png)
 
 **12-10 Circuitos magnéticos en serie: a partir de F, encontrar NI**
 
