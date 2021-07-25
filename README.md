@@ -81,13 +81,16 @@ c. Determine las ecuaciones de descarga para vc e ic.
 **12-10 Circuitos magnéticos en serie: a partir de F, encontrar NI**
 
 15.Encuentre la corriente I en la figura 12-48 si ϕ=0.16 mWb. 
-![13](https://user-images.githubusercontent.com/84453441/126915260-ef64ca42-4c70-47f4-9c65-9528b8d7123f.png)
+![151](https://user-images.githubusercontent.com/84453441/126915505-b697b2fc-c2c5-4869-9e46-b107ff1c047c.png)
+![152](https://user-images.githubusercontent.com/84453441/126915512-f3942f9b-b68e-46d9-9b33-5ab006e2958b.png)
 
 17.Se corta un espacio de 0.5 mm en la porción del núcleo de acero fundido de la figura 12-48. Encuentre la corriente para ϕ=0.128 mWb. No tome en cuenta el desbordamiento.
-![17](https://user-images.githubusercontent.com/84453441/126915315-d6b52363-b735-401c-ae38-eec7ba014514.png)
+![171](https://user-images.githubusercontent.com/84453441/126915514-3f323d37-4a31-4ef3-821a-eefbca5f075e.png)
+![172](https://user-images.githubusercontent.com/84453441/126915526-c30f8d39-d9f8-4cde-8dc0-b71ecc833a83.png)
 
 19.El núcleo de hierro fundido de la figura 12-49 mide 1 cm x 1.5 cm, lg = 0.3 mm, la densidad de flujo del espacio de aire es de 0.426 T y N = 600 vueltas. Los extremos de la pieza tienen forma semicircular. Tomando en cuenta el desbordamiento, encuentre la corriente I.  
-![19](https://user-images.githubusercontent.com/84453441/126915340-fcc78de4-5e12-4934-bae2-9f72666e1168.png)
+![191](https://user-images.githubusercontent.com/84453441/126915530-73842984-4f96-4f9f-b12d-7714417802e1.png)
+![192](https://user-images.githubusercontent.com/84453441/126915535-8981ce0f-1817-4447-8034-1e7bb28556d8.png)
 
 
 **4.VIDEO**
