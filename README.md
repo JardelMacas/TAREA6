@@ -73,23 +73,17 @@ c. Determine las ecuaciones de descarga para vc e ic.
 **12-8 Intensidad de campo magnético y curvas de magnetización**
 
 11.Considere una vez mas la figura 12-42. Si I = 10 A, N = 40 vueltas, r1 = 5 cm y r2 = 7 cm, ¿Qué valor tiene H en amperes-vuelta por metro?
-![Cap_12_Ejer_11_20_00001 (2)](https://user-images.githubusercontent.com/84453441/126914617-4251f499-1a7b-431b-a1e5-c1f5a383cc80.png)
+![11](https://user-images.githubusercontent.com/84453441/126915147-f5b0e8fd-a5d1-4c21-9e35-1efa3aae50bc.png)
 
 13.Suponga que una bobina N2 que lleva la corriente I2 se añade al brazo 3 del núcleo que se muestra en la figura 12-47 y que produce un flujo dirigido hacia arriba. Sin embargo, suponga que el flujo neto en el brazo 3 aun va hacia abajo. Escriba las ecuaciones de la ley de Ampere para este caso.
-![Cap_12_Ejer_11_20_00001 (3)](https://user-images.githubusercontent.com/84453441/126914628-afe0368c-2db2-48a7-b68e-732d9607ca92.png)
 
 **12-10 Circuitos magnéticos en serie: a partir de F, encontrar NI**
 
 15.Encuentre la corriente I en la figura 12-48 si ϕ=0.16 mWb. 
-![Cap_12_Ejer_11_20_00002 (2)](https://user-images.githubusercontent.com/84453441/126914703-4b1d8c0c-35f0-4cc8-aea0-79f960c1f245.png)
 
 17.Se corta un espacio de 0.5 mm en la porción del núcleo de acero fundido de la figura 12-48. Encuentre la corriente para ϕ=0.128 mWb. No tome en cuenta el desbordamiento.
-![Cap_12_Ejer_11_20_00003 (2)](https://user-images.githubusercontent.com/84453441/126914950-a727fffe-a2fd-4371-945d-0ba780de6484.png)
-![Cap_12_Ejer_11_20_00003 (3)](https://user-images.githubusercontent.com/84453441/126914955-98ff411e-a128-4df7-bc92-b73a28acd38a.png)
 
 19.El núcleo de hierro fundido de la figura 12-49 mide 1 cm x 1.5 cm, lg = 0.3 mm, la densidad de flujo del espacio de aire es de 0.426 T y N = 600 vueltas. Los extremos de la pieza tienen forma semicircular. Tomando en cuenta el desbordamiento, encuentre la corriente I.  
-![Cap_12_Ejer_11_20_00004 (2)](https://user-images.githubusercontent.com/84453441/126914992-2fac63e8-7566-42e6-bb0c-7050f34444d9.png)
-![Cap_12_Ejer_11_20_00004 (3)](https://user-images.githubusercontent.com/84453441/126914995-6740f1ca-0d56-4469-9b1a-919e88d61900.png)
 
 
 **4.VIDEO**
