@@ -73,10 +73,8 @@ c. Determine las ecuaciones de descarga para vc e ic.
 **12-8 Intensidad de campo magnético y curvas de magnetización**
 
 11.Considere una vez mas la figura 12-42. Si I = 10 A, N = 40 vueltas, r1 = 5 cm y r2 = 7 cm, ¿Qué valor tiene H en amperes-vuelta por metro?
-![1](https://user-images.githubusercontent.com/84453441/126913713-3a342935-eed0-443e-b4e2-ec089ede6f13.png)
 
 13.Suponga que una bobina N2 que lleva la corriente I2 se añade al brazo 3 del núcleo que se muestra en la figura 12-47 y que produce un flujo dirigido hacia arriba. Sin embargo, suponga que el flujo neto en el brazo 3 aun va hacia abajo. Escriba las ecuaciones de la ley de Ampere para este caso.
-![2](https://user-images.githubusercontent.com/84453441/126913720-cf6a29d6-2817-4c6c-9444-74e0810758ca.png)
 
 **12-10 Circuitos magnéticos en serie: a partir de F, encontrar NI**
 
