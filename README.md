@@ -27,6 +27,7 @@ Objetivos Especificos
 **11-2 Ecuaciones de carga del capacitor**
 
 17.Para la figura 11-2, determine E,R y C si el capacitor tarda 5 ms en cargarse, la corriente en 1 constante de tiempo después de que el interruptor se cierra es de 3.679 mA, y el capacitor se carga a 45 volts en estado estable.
+![17-1](https://user-images.githubusercontent.com/84453441/126915651-2e10d49c-c057-43ba-a28e-64d19f631904.png)
 
 **11-3 Capacitores con un voltaje inicial** 
 
@@ -73,10 +74,8 @@ c. Determine las ecuaciones de descarga para vc e ic.
 **12-8 Intensidad de campo magnético y curvas de magnetización**
 
 11.Considere una vez mas la figura 12-42. Si I = 10 A, N = 40 vueltas, r1 = 5 cm y r2 = 7 cm, ¿Qué valor tiene H en amperes-vuelta por metro?
-![111](https://user-images.githubusercontent.com/84453441/126915228-adb96c43-47e9-47b4-a0c8-bd9e12349b96.png)
 
 13.Suponga que una bobina N2 que lleva la corriente I2 se añade al brazo 3 del núcleo que se muestra en la figura 12-47 y que produce un flujo dirigido hacia arriba. Sin embargo, suponga que el flujo neto en el brazo 3 aun va hacia abajo. Escriba las ecuaciones de la ley de Ampere para este caso.
-![13](https://user-images.githubusercontent.com/84453441/126915201-23facefc-c0ce-4cdd-8bc5-71887b058868.png)
 
 **12-10 Circuitos magnéticos en serie: a partir de F, encontrar NI**
 
