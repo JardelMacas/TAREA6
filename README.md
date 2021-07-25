@@ -70,6 +70,20 @@ c. Determine las ecuaciones de descarga para vc e ic.
 
 **CAPITULO 12**
 
+**12-8 Intensidad de campo magnético y curvas de magnetización**
+
+11.Considere una vez mas la figura 12-42. Si I = 10 A, N = 40 vueltas, r1 = 5 cm y r2 = 7 cm, ¿Qué valor tiene H en amperes-vuelta por metro?
+
+13.Suponga que una bobina N2 que lleva la corriente I2 se añade al brazo 3 del núcleo que se muestra en la figura 12-47 y que produce un flujo dirigido hacia arriba. Sin embargo, suponga que el flujo neto en el brazo 3 aun va hacia abajo. Escriba las ecuaciones de la ley de Ampere para este caso.
+
+**12-10 Circuitos magnéticos en serie: a partir de F, encontrar NI**
+
+15.Encuentre la corriente I en la figura 12-48 si ϕ=0.16 mWb. 
+
+17.Se corta un espacio de 0.5 mm en la porción del núcleo de acero fundido de la figura 12-48. Encuentre la corriente para ϕ=0.128 mWb. No tome en cuenta el desbordamiento.
+
+19.El núcleo de hierro fundido de la figura 12-49 mide 1 cm x 1.5 cm, lg = 0.3 mm, la densidad de flujo del espacio de aire es de 0.426 T y N = 600 vueltas. Los extremos de la pieza tienen forma semicircular. Tomando en cuenta el desbordamiento, encuentre la corriente I.  
+
 
 **4.VIDEO**
 
