@@ -33,6 +33,7 @@ Objetivos Especificos
 **11-3 Capacitores con un voltaje inicial** 
 
 19.El capacitor de la figura 11-50 tiene un voltaje inicial. Si V0 = 10 V, ¿Cuál es la corriente justo después de que el interruptor se ha cerrado?
+![19](https://user-images.githubusercontent.com/84453441/126916300-f5a07be7-384f-4525-84d5-667f17991ab0.png)
 
 21.Para el capacitor de la figura 11-51, V0 =30 V.
 
