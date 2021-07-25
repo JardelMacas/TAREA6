@@ -84,8 +84,12 @@ c. Determine las ecuaciones de descarga para vc e ic.
 ![Cap_12_Ejer_11_20_00002 (2)](https://user-images.githubusercontent.com/84453441/126914703-4b1d8c0c-35f0-4cc8-aea0-79f960c1f245.png)
 
 17.Se corta un espacio de 0.5 mm en la porción del núcleo de acero fundido de la figura 12-48. Encuentre la corriente para ϕ=0.128 mWb. No tome en cuenta el desbordamiento.
+![Cap_12_Ejer_11_20_00003 (2)](https://user-images.githubusercontent.com/84453441/126914950-a727fffe-a2fd-4371-945d-0ba780de6484.png)
+![Cap_12_Ejer_11_20_00003 (3)](https://user-images.githubusercontent.com/84453441/126914955-98ff411e-a128-4df7-bc92-b73a28acd38a.png)
 
 19.El núcleo de hierro fundido de la figura 12-49 mide 1 cm x 1.5 cm, lg = 0.3 mm, la densidad de flujo del espacio de aire es de 0.426 T y N = 600 vueltas. Los extremos de la pieza tienen forma semicircular. Tomando en cuenta el desbordamiento, encuentre la corriente I.  
+![Cap_12_Ejer_11_20_00004 (2)](https://user-images.githubusercontent.com/84453441/126914992-2fac63e8-7566-42e6-bb0c-7050f34444d9.png)
+![Cap_12_Ejer_11_20_00004 (3)](https://user-images.githubusercontent.com/84453441/126914995-6740f1ca-0d56-4469-9b1a-919e88d61900.png)
 
 
 **4.VIDEO**
