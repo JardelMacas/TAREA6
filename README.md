@@ -27,6 +27,8 @@ Objetivos Especificos
 **11-2 Ecuaciones de carga del capacitor**
 
 17.Para la figura 11-2, determine E,R y C si el capacitor tarda 5 ms en cargarse, la corriente en 1 constante de tiempo después de que el interruptor se cierra es de 3.679 mA, y el capacitor se carga a 45 volts en estado estable.
+![17-1](https://user-images.githubusercontent.com/84453441/126915932-bfc149ee-c307-4554-bd5e-1d05fab75aa4.png)
+![17-2](https://user-images.githubusercontent.com/84453441/126915938-32a1ed26-9c6e-45bd-9503-52b8ac678c3d.png)
 
 **11-3 Capacitores con un voltaje inicial** 
 
