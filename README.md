@@ -104,6 +104,9 @@ a. ¿Qué voltaje tiene el capacitor inmediatamente después de que el interrupt
 b. ¿Cuál es la constante de tiempo de descarga?
 
 c. Determine las ecuaciones de descarga para vc e ic.
+![27](https://user-images.githubusercontent.com/84453441/127071226-f8615ec3-6ade-4198-8ebf-7ad9bcd7e7f1.png)
+![27-1](https://user-images.githubusercontent.com/84453441/127071232-c940ec7e-85a4-407a-b0cf-e0ea6e177157.png)
+![27-2](https://user-images.githubusercontent.com/84453441/127071237-325ee8cc-04b9-43fa-8d83-8cffb5e75375.png)
 
 **11-5 Circuitos más complejos** 
 
