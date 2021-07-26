@@ -120,16 +120,23 @@ acero fundido? ¿Si es de hoja de acero con FA=0.94?
 **12-8 Intensidad de campo magnético y curvas de magnetización**
 
 11.Considere una vez mas la figura 12-42. Si I = 10 A, N = 40 vueltas, r1 = 5 cm y r2 = 7 cm, ¿Qué valor tiene H en amperes-vuelta por metro?
+![11](https://user-images.githubusercontent.com/84453441/127070397-20204ea2-8d5b-4b9d-a1cc-35e448e56860.png)
 
 13.Suponga que una bobina N2 que lleva la corriente I2 se añade al brazo 3 del núcleo que se muestra en la figura 12-47 y que produce un flujo dirigido hacia arriba. Sin embargo, suponga que el flujo neto en el brazo 3 aun va hacia abajo. Escriba las ecuaciones de la ley de Ampere para este caso.
+![13](https://user-images.githubusercontent.com/84453441/127070408-af722a4e-c5f0-40bd-94e9-9595bc141c1c.png)
 
 **12-10 Circuitos magnéticos en serie: a partir de F, encontrar NI**
 
 15.Encuentre la corriente I en la figura 12-48 si ϕ=0.16 mWb. 
+![15](https://user-images.githubusercontent.com/84453441/127070426-7c3b41a2-c369-4ef2-9831-a1b0119abed9.png)
 
 17.Se corta un espacio de 0.5 mm en la porción del núcleo de acero fundido de la figura 12-48. Encuentre la corriente para ϕ=0.128 mWb. No tome en cuenta el desbordamiento.
+![17](https://user-images.githubusercontent.com/84453441/127070436-761bc3cb-4ed2-4c42-aacc-8eb285d27ee0.png)
+![17-1](https://user-images.githubusercontent.com/84453441/127070446-c29ff9a1-de1e-4b73-acc2-a0828ee1583a.png)
 
 19.El núcleo de hierro fundido de la figura 12-49 mide 1 cm x 1.5 cm, lg = 0.3 mm, la densidad de flujo del espacio de aire es de 0.426 T y N = 600 vueltas. Los extremos de la pieza tienen forma semicircular. Tomando en cuenta el desbordamiento, encuentre la corriente I.  
+![19](https://user-images.githubusercontent.com/84453441/127070462-9aee89b4-19cd-4d2a-a1a7-f7c76891d50f.png)
+![19-1](https://user-images.githubusercontent.com/84453441/127070469-8de90512-52b6-4c92-8078-6c12a5abc08b.png)
 
 **4.VIDEO**
 
