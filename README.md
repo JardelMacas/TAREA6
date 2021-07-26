@@ -49,6 +49,7 @@ d. ¿Qué se quiere decir con i(0) y con i(0)?
 
 13 Para la figura 11-50, el voltaje del capacitor con el interruptor abierto es de 0 V. Cierre el interruptor en t=0 y determine el voltaje y corriente del capacitor en t  0, 40, 80, 120, 160 y 200 s, use las curvas de la constante de
 tiempo universal. 
+![Screenshot_20210726-180201_Office](https://user-images.githubusercontent.com/86451564/127070206-bed6a5a3-bf20-4049-af8d-dec5f50c805e.jpg)
 
 15 Para la figura 11-2, la corriente se eleva a 3 mA cuando el interruptor se cierra. El capacitor tarda 1 s para cargarse. Si E=75 V, determine R y C.
 ![Screenshot_20210726-175047_Office](https://user-images.githubusercontent.com/86451564/127069680-10d82774-a733-41eb-8a34-5c1020b41c8f.jpg)
