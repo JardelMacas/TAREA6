@@ -95,6 +95,7 @@ e.	Grafique los resultados del inciso (d) con el eje del tiempo con escalas de s
 ![23-4](https://user-images.githubusercontent.com/84453441/127071090-e8db40a7-e5e5-450b-bfbb-c043ceb671e5.png)
 
 25.Un capacitor de 4.7 µF se carga a 43 volts. Si un resistor de 39 kΩ se conecta al capacitor, ¿cuál es el voltaje, 200 ms después de que se conecta el resistor? 
+![25](https://user-images.githubusercontent.com/84453441/127071191-86f20d44-209a-4ee3-ae3d-b7c5d686ff36.png)
 
 27.Para la figura 11-54, sea E = 200 V, R2 = 1 kΩ y C = 0.5 µF. Después de que el capacitor está totalmente cargado en la posición 1, el interruptor es movido a la posición 2. 
 
