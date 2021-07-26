@@ -111,6 +111,9 @@ c. Determine las ecuaciones de descarga para vc e ic.
 **11-5 Circuitos más complejos** 
 
 29.Los capacitores de la figura 11-55 están descargados. El interruptor se cierra en t = 0. Determine la ecuación para vc. Calcule vc a una constante de tiempo usando la ecuación y la curva de constante de tiempo universal. Compare sus respuestas.
+![29](https://user-images.githubusercontent.com/84453441/127071304-6ee5c5c2-2173-4766-bf95-7e1cebca6c0e.png)
+![29-1](https://user-images.githubusercontent.com/84453441/127071322-ed05bff9-5834-40c7-ad25-3d798dd7e26a.png)
+![29-2](https://user-images.githubusercontent.com/84453441/127071330-a156013c-367a-4923-8e08-24a5e1e1e635.png)
 
 **CAPITULO 12**
 
