@@ -72,6 +72,8 @@ a. Determine la expresión para el voltaje de carga vc.
 b. Determine la expresión para la corriente ic.
 
 c. Grafique vc e ic.
+![21](https://user-images.githubusercontent.com/84453441/127070943-59c4ac4d-4c4f-4246-8945-01e1f49457f5.png)
+![21-1](https://user-images.githubusercontent.com/84453441/127070962-2ffd559d-7478-4212-a17f-bfcbc3d544a1.png)
 
 **11-4 Ecuaciones de descarga del capacitor** 
 
