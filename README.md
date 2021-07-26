@@ -23,7 +23,27 @@ Objetivos Especificos
 
 
 **CAPITULO 11**
+1. El capacitor de la figura 11-50 está descargado.
+a. ¿Cuál es el voltaje y la corriente del capacitor justo después de que se cierra el interruptor?
+b. ¿Cuál es el voltaje y la corriente del capacitor después de que está totalmente cargado
 
+3. a.¿A qué se parece un capacitor descargado en el instante que se conecta el interruptor?
+b. ¿Cómo se ve un capacitor cargado en el instante que se acciona el interruptor?
+c. ¿A qué se parece un capacitor en estado estable de cd?
+d. ¿Qué se quiere decir con i(0) y con i(0)?
+
+5. Para un circuito de carga, R=5.6kohmy vC(0)=0 V. Si i(0)=2.7mA, ¿cuál es el valor de E?
+
+7. Repita el problema 6 si R=500ohm, C=25uF y E=45V, pero ahora calcule y grafique valores en t  0 s, 20, 40, 60, 80 y 100 ms
+
+9. Repita el problema 8 para el circuito de la figura 11-52.
+
+11. Determine la constante de tiempo para el circuito de la figura 11-50. ¿Cuánto tiempo (en segundos) tardará el capacitor en cargarse?
+
+13. Para la figura 11-50, el voltaje del capacitor con el interruptor abierto es de 0 V. Cierre el interruptor en t=0 y determine el voltaje y corriente del capacitor en t  0, 40, 80, 120, 160 y 200 s, use las curvas de la constante de
+tiempo universal. 
+
+15. Para la figura 11-2, la corriente se eleva a 3 mA cuando el interruptor se cierra. El capacitor tarda 1 s para cargarse. Si E=75 V, determine R y C.
 **11-2 Ecuaciones de carga del capacitor**
 
 17.Para la figura 11-2, determine E,R y C si el capacitor tarda 5 ms en cargarse, la corriente en 1 constante de tiempo después de que el interruptor se cierra es de 3.679 mA, y el capacitor se carga a 45 volts en estado estable.
@@ -72,6 +92,20 @@ c. Determine las ecuaciones de descarga para vc e ic.
 29.Los capacitores de la figura 11-55 están descargados. El interruptor se cierra en t = 0. Determine la ecuación para vc. Calcule vc a una constante de tiempo usando la ecuación y la curva de constante de tiempo universal. Compare sus respuestas.
 
 **CAPITULO 12**
+
+1. Vea la figura 12-41:
+a. ¿Qué área, A1 o A2, utilizaría para calcular la densidad de flujo?
+b. Si ø=28 mWb, ¿cuál es la densidad de flujo en teslas?
+
+3. El toroide de la figura 12-42 tiene una sección transversal circular y ø=628Wb. Si r1=8 cm y r2=12 cm, ¿cuál es la densidad de flujo en teslas?
+
+5. Si la sección del núcleo en la figura 12-43 que mide 0.025 m por 0.04 m, tiene un factor de apilamiento de 0.85 y B=1.45 T, ¿qué valor tiene ø en webers?
+
+7. Para la sección del núcleo de hierro de la figura 12-45, si ø1=12 mWb y ø3=2 mWb, ¿cuánto vale B2?
+
+9. Un núcleo con dimensiones de 2cm×3cm tiene una intensidad magnética de 1200 Av/m. ¿Qué valor tiene si el núcleo es de hierro fundido? ¿Si es de
+acero fundido? ¿Si es de hoja de acero con FA=0.94?
+
 
 **12-8 Intensidad de campo magnético y curvas de magnetización**
 
