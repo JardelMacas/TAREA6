@@ -88,6 +88,11 @@ c.	Determine la constante de tiempo del circuito.
 d.	Calcule vc e ic en t = 0^+ s, t = T, 2, 3, 4, y 5T. 
 
 e.	Grafique los resultados del inciso (d) con el eje del tiempo con escalas de segundos y de constantes de tiempo.
+![23](https://user-images.githubusercontent.com/84453441/127071025-b1d4ed28-56f2-48a1-a61e-fb0444de36fa.png)
+![111111 (2)](https://user-images.githubusercontent.com/84453441/127071043-fdddd19b-0296-4d6e-a2a6-e3c83a6971a9.png)
+![111111 (3)](https://user-images.githubusercontent.com/84453441/127071053-a2e4db31-5149-48c8-a260-f03ff79754b5.png)
+![111111 (4)](https://user-images.githubusercontent.com/84453441/127071072-7f5cd6e2-85f5-4a05-8a16-973cd2101d1f.png)
+![23-4](https://user-images.githubusercontent.com/84453441/127071090-e8db40a7-e5e5-450b-bfbb-c043ceb671e5.png)
 
 25.Un capacitor de 4.7 µF se carga a 43 volts. Si un resistor de 39 kΩ se conecta al capacitor, ¿cuál es el voltaje, 200 ms después de que se conecta el resistor? 
 
