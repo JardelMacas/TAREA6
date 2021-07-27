@@ -16,7 +16,6 @@ Objetivos Especificos
 
 
 **2.MARCO TEORICO**
-![Resumen_Cap_12](https://user-images.githubusercontent.com/84453441/127079083-f5176452-87f3-4488-9c95-a2c5d07384ef.png)
 
 
 
@@ -121,15 +120,20 @@ c. Determine las ecuaciones de descarga para vc e ic.
 1 Vea la figura 12-41:
 a. ¿Qué área, A1 o A2, utilizaría para calcular la densidad de flujo?
 b. Si ø=28 mWb, ¿cuál es la densidad de flujo en teslas?
+![Screenshot_20210726-200733_Office](https://user-images.githubusercontent.com/86451564/127079076-5bda98aa-b00f-4469-9ade-3d1b69682d5e.jpg)
 
 3 El toroide de la figura 12-42 tiene una sección transversal circular y ø=628Wb. Si r1=8 cm y r2=12 cm, ¿cuál es la densidad de flujo en teslas?
+![Screenshot_20210726-200755_Office](https://user-images.githubusercontent.com/86451564/127079106-e273eb3f-d19c-49d8-930d-22c0f04b422a.jpg)
 
 5 Si la sección del núcleo en la figura 12-43 que mide 0.025 m por 0.04 m, tiene un factor de apilamiento de 0.85 y B=1.45 T, ¿qué valor tiene ø en webers?
+![Screenshot_20210726-200815_Office](https://user-images.githubusercontent.com/86451564/127079126-5eb19cff-9e7d-438d-af90-9c2bc12411dd.jpg)
 
 7 Para la sección del núcleo de hierro de la figura 12-45, si ø1=12 mWb y ø3=2 mWb, ¿cuánto vale B2?
+![Screenshot_20210726-200832_Office](https://user-images.githubusercontent.com/86451564/127079150-7abd3886-620b-454a-83b6-47d2e4f73ede.jpg)
 
 9 Un núcleo con dimensiones de 2cm×3cm tiene una intensidad magnética de 1200 Av/m. ¿Qué valor tiene si el núcleo es de hierro fundido? ¿Si es de
 acero fundido? ¿Si es de hoja de acero con FA=0.94?
+![Screenshot_20210726-200857_Office](https://user-images.githubusercontent.com/86451564/127079174-0c181552-c24f-4d47-8f87-a5cc8a708782.jpg)
 
 
 **12-8 Intensidad de campo magnético y curvas de magnetización**
