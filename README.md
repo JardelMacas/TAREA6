@@ -266,6 +266,7 @@ acero fundido? ¿Si es de hoja de acero con FA=0.94?
 
 ![imagen31](https://user-images.githubusercontent.com/84357979/127164895-441571b0-72e5-461e-b314-28ca6c8f6b5e.png)
 
+![imagen32](https://user-images.githubusercontent.com/84357979/127165581-59fe692a-74e1-44a8-937c-03bb22c9a480.png)
 
 
 **4.VIDEO**
