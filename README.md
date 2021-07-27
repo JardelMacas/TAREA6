@@ -8,11 +8,18 @@ AUTORES: JERSON CHAMBA-JARDEL MACAS - EDWIN MONTENEGRO
 
 Objetivos Generales
 
-
+* Analizar el comportamiento de los Circuitos RC
+* Conocer los fundamentos de los Circuitos Magneticos
 
 Objetivos Especificos
 
+* Describir el comportamiento de los voltajes y corrientes en Circuitos RC simples durante los periodos de carga y descarga
+* Detallar el uso de las formas de onda de carga y descarga en aplicaciones simples de temporizacion.
+* Determinar la respuesta al pulso de circuitos RC simples.
 
+* Representar los campos magneticos usando el concepto de flujo de Faraday.
+* Analizar los circuitos magneticos en serie-paralelo.
+* Determinar la fuerza de atraccion de un electroimán. 
 
 
 **2.MARCO TEORICO**
@@ -239,13 +246,18 @@ acero fundido? ¿Si es de hoja de acero con FA=0.94?
 
 **4.VIDEO**
 
-Link del Video: https://youtu.be/FK8kZCTtCCw
+Link del Video: https://youtu.be/S-rheZN-I8Y
 
-[![Circuitos Eléctricos || Ejercicios Resueltos || Libro de Allan Robbins || Capítulos 9 y 10](https://img.youtube.com/vi/FK8kZCTtCCw/0.jpg)](https://youtu.be/FK8kZCTtCCw)
+[![Circuitos Eléctricos || Ejercicios Resueltos || Libro de Allan Robbins || Capítulos 11 y 12](https://img.youtube.com/vi/S-rheZN-I8Y/0.jpg)](https://youtu.be/S-rheZN-I8Y)
 
 **5. CONCLUSIONES**
+* Ningun efecto de carga o descarga de los capacitores puede ser analizado en circuitos complejos, para ello debe reducirse el circuito a una resistencia y un capacitor en serie.
+* El periodo, el VRP y el ciclo de trabajo definen el concepto de ondas de pulso.
+* El ancho de un pulso junto a la constante del tiempo de un circuito determina como se ve afectada la onda de pulso.
 
-
+* Mediante el concepto de densidad de flujo de carga podemos definir un campo magnetico en cualquier superficie.
+* En un circuito magnetico se debe tener presente tanto el tipo de material como sus dimensiones por separado, pues habra un campo debido a la corriente que pasa por cada uno de estos.
+* El analisis de la fuerza de un electroimagen comprende la densidad y la capacidad de flujo fuera del dispositivo (en el vacio).
 
 **6.BIBLIOGRAFÍA**
 
