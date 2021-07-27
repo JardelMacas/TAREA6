@@ -18,6 +18,7 @@ Objetivos Especificos
 **2.MARCO TEORICO**
 
 ![downloadfile(11)_page-0001](https://user-images.githubusercontent.com/86451564/127096159-e360fa71-b9ac-40a9-bf74-8cd6d88c53e2.jpg)
+![Resumen_Cap_12](https://user-images.githubusercontent.com/84453441/127099563-955b5939-c99d-4c6f-bb80-f52270f7ac92.png)
 
 
 **3.EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS**
