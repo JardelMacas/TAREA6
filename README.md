@@ -244,6 +244,30 @@ acero fundido? ¿Si es de hoja de acero con FA=0.94?
 ![19](https://user-images.githubusercontent.com/84453441/127070462-9aee89b4-19cd-4d2a-a1a7-f7c76891d50f.png)
 ![19-1](https://user-images.githubusercontent.com/84453441/127070469-8de90512-52b6-4c92-8078-6c12a5abc08b.png)
 
+21) Para el circuito de la figura 12-51, φ=141µWb y N=400 vueltas. El miembro inferior es una hoja de acero con un factor de apilamiento de 0,94 mientras que el resto es de acero fundido. Todas las piezas miden 1cm x 1 cm. La longitud de la trayectoria del acero fundido es de 16 cm. Encuentre la corriente I.
+
+![image](https://user-images.githubusercontent.com/84357979/127164222-2ef86d07-9029-4371-8377-1d5282ac8af1.png)
+
+![imagen29](https://user-images.githubusercontent.com/84357979/127164323-cba8ec5c-12a5-434b-a65f-35ee775d01f3.png)
+
+23) Una segunda bobina de 450 vueltas con I2= 4 amperes se devana en la porción de acero fundido de la figura. 12-52. Su flujo está en oposición al flujo producido por la bobina original. El flujo resultante es de 35000 líneas en dirección contraria a la de las manecillas del reloj. Encuentre la corriente I1.
+
+![image](https://user-images.githubusercontent.com/84357979/127164372-14082c09-0998-4162-b3e6-ee8d537294b6.png)
+
+25) Si el circuito de la figura 12-53 no tiene espacio y φ3=0.2 mWb, encuentre I.
+
+![image](https://user-images.githubusercontent.com/84357979/127164422-b3972aa9-c3fe-40ec-ad74-775d84498d64.png)
+
+27) Si NI= 644 Av para el núcleo de acero fundido de la figura 12-54, encuentre el flujo φ
+
+![imagen30](https://user-images.githubusercontent.com/84357979/127164529-d3b7638f-e4de-4084-986f-623b0a82d79d.png)
+
+29) Para el relevador de la figura 12-34, si la cara del polo mide 2cm por 2.5 cm y se requiere una fuerza de 2 libras para cerrar el espacio, ¿Cuánto flujo se necesita(En Webbers)?
+
+![imagen31](https://user-images.githubusercontent.com/84357979/127164895-441571b0-72e5-461e-b314-28ca6c8f6b5e.png)
+
+
+
 **4.VIDEO**
 
 Link del Video: https://youtu.be/S-rheZN-I8Y
