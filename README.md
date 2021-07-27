@@ -129,6 +129,7 @@ Capacitor Equivalente:
 ![image](https://user-images.githubusercontent.com/84357979/127105501-0c9db4f3-35f7-44e1-b8c2-e9c5e1fd4c58.png)
 
 Determinamos Resistencia de Thevenin:
+
 ![image](https://user-images.githubusercontent.com/84357979/127105517-0619bf77-f7ce-4d9d-99f9-cd1c2c3face8.png)
 ![image](https://user-images.githubusercontent.com/84357979/127105522-796fb799-2987-475e-95c0-c325f64d5ff7.png)
 
