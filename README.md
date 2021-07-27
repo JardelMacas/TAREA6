@@ -254,9 +254,15 @@ acero fundido? ¿Si es de hoja de acero con FA=0.94?
 
 ![image](https://user-images.githubusercontent.com/84357979/127164372-14082c09-0998-4162-b3e6-ee8d537294b6.png)
 
+![imagen33](https://user-images.githubusercontent.com/84357979/127168219-4b11fca2-407c-4595-8d7d-ae3c26eb40fc.png)
+
+
 25) Si el circuito de la figura 12-53 no tiene espacio y φ3=0.2 mWb, encuentre I.
 
 ![image](https://user-images.githubusercontent.com/84357979/127164422-b3972aa9-c3fe-40ec-ad74-775d84498d64.png)
+
+![imagen34](https://user-images.githubusercontent.com/84357979/127168247-c6c5c4dd-4564-42b1-81c4-f5843f330d63.png)
+
 
 27) Si NI= 644 Av para el núcleo de acero fundido de la figura 12-54, encuentre el flujo φ
 
